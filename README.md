@@ -1,6 +1,6 @@
 # Using-tools-like-John-the-Ripper-for-password-cracking
-#Name:Mohammed Ashfaq Nadeem A
-#Reg no:212224230166
+# Name:Mohammed Ashfaq Nadeem A
+# Reg no:212224230166
 ## AIM:
 To crack password hashes using John the Ripper in Kali Linux.
 ## REQUIREMENTS:
